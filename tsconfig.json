@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "module": "amd",
+        "target": "ES5",
+        "sourceMap": false,
+        "noImplicitAny": true,
+        "sourceMap": false,
+        "inlineSourceMap": false
+    },
+    "files": [
+        "ts/main.ts"
+    ],
+    "exclude": [
+        "node_modules",
+        "bower_components"
+    ]
+}
