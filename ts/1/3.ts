@@ -1,1 +1,1 @@
-/// <reference path="2/4.ts" />
+/// <reference path="2" />
